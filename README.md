@@ -20,3 +20,37 @@ Hello, and welcome to my portfoio. I am a full stack software developer with dev
 ### What excites you the most about tech? Write 1-2 sentences.
 
 I really enjoy learning how things work, like games or systems, and then pushing those things to their limits to see just what they can accomplish. I'm always chasing that hit of excitement and happiness when something works as you intended it to. I'm always excited to see new technology come out and getting to learn it is always a joyful endevor!
+
+## Image Assets
+
+### Background images
+
+![background 1](assets/20180526_203922.jpg)
+
+![background 2](assets/20200628_123909.jpg)
+
+![background 3](assets/20220702_210139.jpg)
+
+### Memory Snap - 201 Final Project
+
+![memory snap 1](assets/Screenshot%202024-01-08%20at%2011.16.54 PM.png)
+
+![memory snap 2](assets/Screenshot%202024-01-08%20at%2011.17.14 PM.png)
+
+![memory snap 3](assets/Screenshot%202024-01-08%20at%2011.18.01 PM.png)
+
+### Odd Duck
+
+![odd duck 1](assets/Screenshot%202024-01-08%20at%2011.19.12 PM.png)
+
+![odd duck 2](assets/Screenshot%202024-01-08%20at%2011.19.43 PM.png)
+
+![odd duck 3](assets/Screenshot%202024-01-08%20at%2011.20.07 PM.png)
+
+### Salmon Cookies
+
+![salmon cookies 1](assets/Screenshot%202024-01-08%20at%2011.20.59 PM.png)
+
+![salmon cookies 2](assets/Screenshot%202024-01-08%20at%2011.21.23 PM.png)
+
+![salmon cookies 3](assets/Screenshot%202024-01-08%20at%2011.21.38 PM.png)
