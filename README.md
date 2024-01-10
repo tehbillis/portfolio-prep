@@ -17,6 +17,8 @@ Hello, and welcome to my portfoio. I am a full stack software developer with dev
 
 ### Your professional pitch: You’ve done a recording, so just write down here how it goes.
 
+Hi I'm Will, I've worn many hats in my years starting with QA egineer, and Software Developer. I've also been a chimney sweep, catering associate, warehouse manager, Window delivery driver, gas meter tech, and most recently my time is mostly spent working as a Full Stack Developer. I like to spend my free time with my daughter and partner, my house plants, and learning devops with my homelab as a hobby and as a way to grow my skills.  I've been coding and working my way around technology for 20 years now, and the excitement from finding interesting solutions to interesting problems has never gone away for me. I like learning new technology and figuring out how it can best be used. I'm looking to use my skills to help make the world a better place for my child, and everyone else in our community, state, country, and maybe even the world.
+
 ### What excites you the most about tech? Write 1-2 sentences.
 
 I really enjoy learning how things work, like games or systems, and then pushing those things to their limits to see just what they can accomplish. I'm always chasing that hit of excitement and happiness when something works as you intended it to. I'm always excited to see new technology come out and getting to learn it is always a joyful endevor!
